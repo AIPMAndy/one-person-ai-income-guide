@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="一个人一台电脑靠 AI 赚钱保姆级攻略项目封面">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="0.58" stop-color="#18263b"/><stop offset="1" stop-color="#172b51"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#77aaf9" stop-opacity=".3"/><stop offset="1" stop-color="#77aaf9" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1060" cy="118" r="450" fill="url(#glow)"/>
+  <rect x="65" y="54" width="210" height="44" rx="22" fill="#243852" stroke="#5f82ae"/>
+  <text x="170" y="84" fill="#bcd9ff" font-family="'Noto Sans CJK SC',sans-serif" font-size="20" text-anchor="middle">AI 酋长 Andy · 开源</text>
+  <text x="69" y="195" fill="#e9f2ff" font-family="'Noto Sans CJK SC',sans-serif" font-weight="760" font-size="78">一个人，一台电脑</text>
+  <text x="69" y="291" fill="#9bc2ff" font-family="'Noto Sans CJK SC',sans-serif" font-weight="800" font-size="88">靠 AI 赚钱</text>
+  <text x="71" y="357" fill="#d4e2f6" font-family="'Noto Sans CJK SC',sans-serif" font-size="38">保姆级攻略</text>
+  <line x1="71" y1="408" x2="850" y2="408" stroke="#597390" opacity="0.7" />
+  <text x="71" y="459" fill="#d8e7fa" font-family="'Noto Sans CJK SC',sans-serif" font-size="25">选方向 → 找客户 → 做交付 → 收第一笔钱</text>
+  <text x="71" y="525" fill="#95a9c6" font-family="'Noto Sans CJK SC',sans-serif" font-size="22">7种业务 SOP   ·   55项行动   ·   30天验证   ·   免费开源</text>
+  <g transform="translate(957 260)">
+    <rect width="236" height="170" rx="15" fill="#375277" stroke="#89b9fa" stroke-width="2"/>
+    <rect x="13" y="13" width="210" height="136" rx="6" fill="#0c172a"/>
+    <path d="M44 73 L83 73 M44 98 L140 98 M44 123 L175 123" stroke="#7aafee" stroke-width="10" stroke-linecap="round"/>
+    <path d="M-24 171 L260 171 L287 196 Q288 205 271 205 L-37 205 Q-55 205 -48 196Z" fill="#748fac"/>
+  </g>
+</svg>

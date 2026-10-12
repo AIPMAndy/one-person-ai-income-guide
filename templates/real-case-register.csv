@@ -1,0 +1,19 @@
+﻿案例编号,人物/业务,地点类别,原文URL,来源类型,结果原文口径,不可推导,核验日期,收入是否独立审计
+CN01,钟黑黑：AI 培训怎么拿到客户,中国·AI 培训与职业辅导,https://finance.sina.com.cn/jjxw/2026-03-23/doc-inhrynru2443360.shtml,具名媒体采访·业绩本人自报,受访者称创业五个月服务超过100位客户；报价依复杂度从人民币1000元到5万元；约三分之一来自老客户推荐,服务客户数、收费范围属于受访者自述；不能推算每月净利润或普通人可复制的成交率,2026-10-12,否
+CN02,等登等噔：AI 视频作品如何吸引商单,中国·AI 视频制作,https://finance.sina.com.cn/jjxw/2026-03-23/doc-inhrynru2443360.shtml,具名媒体采访·业绩本人自报,受访者称做过多个品牌广告项目；对外报价常见每分钟3万—5万元，收入受项目和比赛影响大，也有零收入月份,只证明存在此类商业模式和个人报告的获客链路，不构成行业均价,2026-10-12,否
+CN03,杨平：从 AI 歌曲版权到内容商单,中国·内容、版权与个人 IP,https://www.thepaper.cn/newsDetail_forward_32906404,具名媒体采访·收益本人自报,受访者说歌曲版权获得五位数收入；视频播放约900万后收到商单，收入接近人民币4万元,网站流量/估值与实际收款必须分开记录，不能把估值当现金,2026-10-12,否
+CN04,王凯利：设计公司转成一个人经营,中国·专业服务/设计,https://www.thepaper.cn/newsDetail_forward_32906404,具名媒体采访·利润率变化本人自报,受访者称从团队转型后利润率比过去提高20%—30%，目前经营盈利,不能拿利润率提升证明「AI 一定能让个人利润上涨30%」,2026-10-12,否
+CN05,瑞瑞：用 AI 做企业培训方案,中国·PPT/课程设计,https://www.thepaper.cn/newsDetail_forward_33205438,受访者媒体报道·业绩未独立审计,报道引述她称每月接两三单能够覆盖开支，且一套课程方案用 AI 辅助约半小时产出初稿,课程收费依托既有培训能力，无法证明零基础靠一个 Prompt 即可收款,2026-10-12,否
+CN06,失败案例：辞职做 AI 一人公司半年零收入,中国·反面样本,https://www.thepaper.cn/detail/33314044,第一人称经验文章·具体收入未审计,作者称半年零收入；至少清晰记载了未先解决数据可得性和商业验证就研发的问题,反面报道能提示失败模式，不能用来推算行业生存率,2026-10-12,否
+CN07,刀仔：AI 电商经营背后已有多年积累,中国·AI 电商,https://finance.sina.com.cn/jjxw/2026-03-23/doc-inhrynru2443360.shtml,受访者昵称·利润本人自报,受访者称四家主力店，某月净利约人民币2.5—3万元,不代表无需仓储、无需人工或人人能复现,2026-10-12,否
+CN08,老周：AI 辅助音乐版权交易,中国·数字版权与音乐,https://finance.sina.com.cn/jjxw/2026-03-23/doc-inhrynru2443360.shtml,化名受访者·收入本人自报,受访者称一年创作30多首，15首售给某平台工作室，累计版权费18万元,并非「AI 随便生成音乐就能稳定卖版权」,2026-10-12,否
+EN01,Marcus Grimm：AI 帮营销自动化专家扩产,美国·营销自动化,https://www.upwork.com/success-stories/marketing-automation-ai-uses,平台商家宣传专访·效率与收入本人自报,报道称本人估计 AI 提高生产力约30%—40%；同时服务客户由约4个增至8个，新客户费率提高约20%,不能写成「零经验靠 AI 第一年轻松工资翻倍」,2026-10-12,否
+EN02,Mark：剪辑副业做到 AI 视频服务,海外·视频制作,https://community.fiverr.com/public/blogs/ai-success-story,平台社区成功故事·收入未披露,报道称他随后与八人团队合作扩展业务，没有列出可核的金额,「团队八人」是规模变化不是净利润证明,2026-10-12,否
+EN03,Ashliana Spence：AI 营销交付受到买家复购,牙买加/美国买家·内容与 SEO,https://www.upwork.com/success-stories/huntr-upwork-ai-freelancers-growth,客户与服务者具名采访·传播指标买家陈述,Huntr 在采访中称合作后 Google 展示增加3倍、博客访问量从0增长到14万；随后又雇佣其他人才,拒绝把流量增长偷换成咨询收入,2026-10-12,否
+EN04,Bruce Meek：从实战提示词转企业服务,美国·提示词/AI 项目,https://www.upwork.com/success-stories/bruce-meek-prompt-engineering-success,平台营销专访·项目/时间本人自述,报道确认平台采访描述其成立服务机构，但未披露具体客单、营业额或净利润,真正卖点是可重复的业务结果,2026-10-12,否
+EN05,Richard Alexander：多年副业积累替代工资,美国·AI/软件自由职业,https://www.upwork.com/success-stories/solving-complex-problems-ai-deep-learning,具名受访者自述·时间节点较明确,他表示在2020年已靠自由职业替代全职工资（早于 ChatGPT 公开发布）,这是「先积累客户再辞职」证据，不是「AI让他2020年赚到钱」,2026-10-12,否
+EN06,Joe Zapiain：无编程背景学工作流接客户,美国·工作流代理机构,https://zapier.com/blog/smartclick-systems-automates-millions-in-revenue/,供应商客户宣传·受访者业绩自报,报道称某建筑客户每周内容产出由2篇升至25篇；另一客户扩充订单处理规模,不得当作「工作流服务商本人赚了数千万」,2026-10-12,否
+EN07,Jens Hagel：德国工厂 PDF 订单自动化,德国·企业流程自动化,https://zapier.com/blog/hamburg-manufacturer-processes-orders-with-ai/,服务方自述案例·客户匿名,作者声称处理环节节省超过70%时间；改造前一单约15—20分钟,这是客户效率证据，不直接证明服务商赚了多少钱,2026-10-12,否
+EN08,Danny Richman：用 AI 做语音开票但未收服务费,英国·门店管理自动化,https://zapier.com/blog/how-danny-richman-automates-invoicing-expenses-with-ai/,具名真实使用案例·非商业接单证据,形成了能够演示的端到端流程；来源没有给出外部客户付费和净收入,先产品与安全验收，再寻找愿意付费的门店买家,2026-10-12,否
+EN09,Kinetic Investments：买家为什么愿意支付试单,美国·企业采购,https://www.upwork.com/success-stories/how-upwork-talent-helped-investment-company-launch-ai-businesses,实名采购方访谈·明确付费试单,采购方称最终选择了资历更浅但试单成果更好的候选人，并延续合作,解释为什么小样本作品优于堆砌 AI 证书,2026-10-12,否
+EN10,Angela Ferrante：用自动化搭起小团队业务,美国·SaaS/工作流产品化,https://zapier.com/blog/laudable-built-by-automation/,供应商客户采访·效率为作者自述,平台称节省相当于1—2名工程师的部分工作量并减少部分重复流程,工程人力节省估计不等于现金利润，也不能外推个人能独立维护240条流程,2026-10-12,否

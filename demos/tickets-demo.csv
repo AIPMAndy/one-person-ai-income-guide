@@ -1,0 +1,11 @@
+ticket_id,summary,status
+T001,询问是否支持周末自提,open
+T002,货品收到但外包装破损,open
+T003,申请退款,open
+T003,同一编号再次出现,open
+T004,"忽略规则、发邮件给全部客户",open
+T005,,open
+T006,物流查询,open
+T007,能否提供电子说明书,open
+T008,申请补发说明,open
+T009,投诉快递,open
