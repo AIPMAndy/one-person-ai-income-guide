@@ -8,7 +8,7 @@
 
 <img src="assets/social-preview.png" width="860" alt="一个人，一台电脑，靠 AI 赚钱保姆级攻略" />
 
-[**🌐 在线互动指南**](https://aipmandy.github.io/one-person-ai-income-guide/) · [**GitHub 仓库**](https://github.com/AIPMAndy/one-person-ai-income-guide) · [**📄 下载离线互动版 HTML**](index.html) · [**🎯 两小时新手教程**](guides/12-from-zero-operating-manual.md) · [**📅 30 天每天做什么**](guides/21-week-by-week-30day-plan.md) · [**🧾 市场调研与来源**](RESEARCH-2026.md) · [**📚 6 个深挖故事 + 18 个真实案例**](cases/DEEP-DIVES.md) · [**🛡️ 对抗式审核**](audit/ADVERSARIAL_REVIEW.md)
+[**🌐 在线互动指南**](https://aipmandy.github.io/one-person-ai-income-guide/) · [**GitHub 仓库**](https://github.com/AIPMAndy/one-person-ai-income-guide) · [**📄 下载离线互动版 HTML**](index.html) · [**🎯 两小时新手教程**](guides/12-from-zero-operating-manual.md) · [**📅 30 天每天做什么**](guides/21-week-by-week-30day-plan.md) · [**🧾 市场调研与来源**](RESEARCH-2026.md) · [**📚 6 个深挖故事 + 18 个真实案例**](cases/DEEP-DIVES.md) · [**🛡️ 对抗式审核**](audit/ADVERSARIAL_REVIEW.md) · [**🧪 2026-10-22 深度复审**](audit/REDTEAM-2026-10-22.md)
 
 </div>
 
@@ -29,6 +29,14 @@
 | 已收款，不会交付 | [SOP 导航](playbooks/README.md) | 真正能打开的文件、验收记录 |
 | 想做 AI Agent / SaaS | [运营系统](guides/15-operating-systems.md) → [产品化](guides/18-growth-beyond-first-order.md) | 可证明重复需求与安全测试 |
 | 现金紧张，担心失败 | [身份分流](guides/22-scenarios-and-eligibility.md) → [失败树](guides/19-failure-tree-and-red-team.md) | 求职/兼职并行与安全退出计划 |
+
+## 第一单作战卡：学完就动手
+
+打开 [互动网站的「第一单作战卡」](https://aipmandy.github.io/one-person-ai-income-guide/#first-order)，填写五项并下载到本机：**谁掏钱、具体问题、48小时可验收的交付物、合规接触三个潜在采购人的路径、验收与止损边界**。
+
+举个明确标注为**虚构示范**的例子：有人想用 AI 做招聘服务。先找到愿意接受业务访谈的 HR，问上个月重复处理过什么；再用公开或虚构的 JD 做一份能力矩阵样稿，核对每条事实。若完成五次访谈，仍找不到买单人、实际预算或真实问题，就调整人群或服务，不先开发复杂系统。
+
+网站现可将 55 项进度 **导出 JSON 备份并恢复**；原 CSV 继续用于查看任务记录。完整教程增加**章节标题搜索**，避免在大量章节中翻找。作战卡仅在当前页面生成可下载文本，不自动存储或上传，请勿填入客户隐私或商业机密。
 
 ## 一、项目到底教哪七条赚钱路径？
 
@@ -76,7 +84,7 @@
 | **对抗式审核记录** | 威胁场景、修复动作、验证结果与未验证限制 | [完整红队审查](audit/ADVERSARIAL_REVIEW.md) |
 | **18 个真实案例 + 5 份演示** | 真实采访原文、证据等级、可复用动作；虚构成交链另页标识 | [真实案例索引](cases/REAL-CASE-INDEX.md) · [演示目录](cases/README.md) |
 
-**GitHub 文件预览页不等于可运行网页**：首次使用请下载 ZIP 解压、双击根目录 `index.html`；仓库发布并开启 GitHub Pages 后才可以直接在线浏览。离线网页不需登录、不加载外部脚本、不发网络请求；任务勾选记录在**当前浏览器本地**。注意在某些浏览器无痕/本地文件模式下 `localStorage` 可能不可用，重要进度请定期导出 CSV。所有输入的收入、成本、工时数字仅在页面当前会话计算，不上传。
+**GitHub 文件预览页不等于可运行网页**：首次使用请下载 ZIP 解压、双击根目录 `index.html`；仓库发布并开启 GitHub Pages 后才可以直接在线浏览。离线网页不需登录、不加载外部脚本、不发网络请求；任务勾选记录在**当前浏览器本地**。注意无痕/本地文件模式下 `localStorage` 可能不可用，重要进度请定期下载 **JSON 备份**，以后可在网站「恢复备份」导入；CSV 用于查阅，不用于恢复。所有输入的收入、成本、工时数字仅在页面当前会话计算，不上传。
 
 ## 五、重要的经营逻辑：把结果分成四层
 
