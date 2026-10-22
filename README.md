@@ -8,7 +8,7 @@
 
 <img src="assets/social-preview.png" width="860" alt="一个人，一台电脑，靠 AI 赚钱保姆级攻略" />
 
-[**🌐 在线互动指南**](https://aipmandy.github.io/one-person-ai-income-guide/) · [**GitHub 仓库**](https://github.com/AIPMAndy/one-person-ai-income-guide) · [**📄 下载离线互动版 HTML**](index.html) · [**🎯 两小时新手教程**](guides/12-from-zero-operating-manual.md) · [**📅 30 天每天做什么**](guides/21-week-by-week-30day-plan.md) · [**🧾 市场调研与来源**](RESEARCH-2026.md) · [**📚 6 个深挖故事 + 18 个真实案例**](cases/DEEP-DIVES.md) · [**🛡️ 对抗式审核**](audit/ADVERSARIAL_REVIEW.md) · [**🧪 2026-10-22 深度复审**](audit/REDTEAM-2026-10-22.md)
+[**✨ 高级版互动网站**](https://aipmandy.github.io/one-person-ai-income-guide/) · [**🌐 Andy 官网**](https://metaver.vip/) · [**🤝 服务与陪跑**](https://metaver.vip/services) · **微信 AIPMAndy** · [**GitHub 仓库**](https://github.com/AIPMAndy/one-person-ai-income-guide) · [**📄 下载离线互动版 HTML**](index.html) · [**🎯 两小时新手教程**](guides/12-from-zero-operating-manual.md) · [**📅 30 天每天做什么**](guides/21-week-by-week-30day-plan.md) · [**🧾 市场调研与来源**](RESEARCH-2026.md) · [**📚 6 个深挖故事 + 18 个真实案例**](cases/DEEP-DIVES.md) · [**🛡️ 对抗式审核**](audit/ADVERSARIAL_REVIEW.md) · [**🧪 2026-10-22 深度复审**](audit/REDTEAM-2026-10-22.md)
 
 </div>
 
@@ -17,6 +17,14 @@
 **AI 可以加快你做事的速度，客户是否付钱取决于问题是不是值得解决、结果能不能验收。** 这份开源攻略教你找到第一个买单的人，按清楚的范围交付，再通过事实、现金流和复盘决定要不要扩大。
 
 > **使用须知**：本项目 100% 免费，不需要买课程或订阅。30 天出首单属于行动实验，**不保证任何人赚到钱**。**所有示例人物与模拟订单**均为明确标识的虚构/假设演练；本次另新增**18篇真实人物、企业或第一人称报道案例**，有可打开的原文链接，但其中采访中的收入和效率数字没有经过本仓库独立审计。两类案例分别呈现。公开资料核验日期 2026-10-12，法规及平台条款需要交易时再次核查。
+
+## 关于作者与咨询｜AI 酋长 Andy
+
+**个人官网：[metaver.vip](https://metaver.vip/)** · **服务与陪跑：[metaver.vip/services](https://metaver.vip/services)** · **微信：AIPMAndy**
+
+本项目的方法、Prompt、模板与互动网站完整免费，**无需先添加微信、无需报名课程**。你如果卡在求职方向、AI 副业第一单、AI 产品落地或个人 IP 获客，可以自愿访问官网服务页，再添加微信 **AIPMAndy**；建议备注「AI 赚钱攻略 + 具体问题」。
+
+新版网站采用克制留白、系统字体、蓝色产品视觉和响应式卡片。首屏、中段、作者区与页尾均有官网、服务页和微信号入口；**一键复制微信只是复制账号文本，不会自动添加好友、采集访客信息或要求付费。**
 
 ## 先选入口：你现在处在哪一关？
 
@@ -123,6 +131,9 @@ python3 -m unittest discover -s tests -v
 发布流程及 GitHub Pages 配置参阅 [LAUNCH.md](LAUNCH.md)；[实际验收记录](VALIDATION.md) 说明已经测试和未验证的部分。欢迎提 Issue/PR 帮忙更新官方来源、提供**获得授权且去标识化**的真实用户体验，也欢迎指出任何无法复现的步骤。[贡献指南](CONTRIBUTING.md) · [安全响应](SECURITY.md)。
 
 ## 九、作者与可选咨询
+
+**个人官网：[metaver.vip](https://metaver.vip/)** · **服务页：[metaver.vip/services](https://metaver.vip/services)** · **微信：AIPMAndy**。详细红队审核见 [Apple 风品牌与转化专项复审](audit/APPLE-BRAND-REVIEW-2026-10-22.md)。
+
 
 **AI 酋长 Andy**｜微信 **AIPMAndy**｜[作者网站](https://metaver.vip/)。教程、Prompt、SOP、模板不设付费门槛。若你要做个性化**求职/转型**、**AI 服务接单诊断**、**AI 自动化交付或个人 IP 获客**，可以自愿预约沟通；具体范围、可接受案例、价格和付款条件须事先确认，不保证收入或求职结果。
 
