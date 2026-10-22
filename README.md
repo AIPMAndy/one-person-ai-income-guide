@@ -138,3 +138,23 @@ python3 -m unittest discover -s tests -v
 **AI 酋长 Andy**｜微信 **AIPMAndy**｜[作者网站](https://metaver.vip/)。教程、Prompt、SOP、模板不设付费门槛。若你要做个性化**求职/转型**、**AI 服务接单诊断**、**AI 自动化交付或个人 IP 获客**，可以自愿预约沟通；具体范围、可接受案例、价格和付款条件须事先确认，不保证收入或求职结果。
 
 **授权**：文档原创内容采用 [CC BY 4.0](LICENSE-CONTENT.md)，代码 [MIT](LICENSE)；第三方研究或政策只链接引用，不改变原权属。虚构示例逐篇显著标识；真人故事均链接其来源并注明自述/证据限制。
+
+<!-- andy-author-card:start -->
+## 作者 / About the author
+
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+
+可以找我聊求职咨询、AI 增长和副业陪跑，服务范围和费用先沟通确认。
+
+微信 `AIPMAndy`（备注「AI 副业」）· [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/) · [Grok Bot 中文攻略](https://aipmandy.github.io/grok-bot-handbook/)
+
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+
+### 作者的其他项目
+
+- [中国人赚美金](https://github.com/AIPMAndy/how-to-earn-usd-from-china)：8 种海外收入路线、获客、报价、收款与税务
+- [Grok Bot 中文攻略](https://github.com/AIPMAndy/grok-bot-handbook)：Grok Bot / AI Agent 中文教程，26 章加 40 套任务指令
+- [普通人跳槽涨薪指南](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary)：跳槽涨薪全流程：选岗、简历、面试、谈薪
+- [失业自救开源手册](https://github.com/AIPMAndy/how-to-survive-unemployment)：失业怎么办、被裁员后怎么办：补偿、失业金、医保社保和现金流
+
+<!-- andy-author-card:end -->
