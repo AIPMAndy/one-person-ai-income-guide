@@ -156,5 +156,6 @@ python3 -m unittest discover -s tests -v
 - [Grok Bot 中文攻略](https://github.com/AIPMAndy/grok-bot-handbook)：Grok Bot / AI Agent 中文教程，26 章加 40 套任务指令
 - [普通人跳槽涨薪指南](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary)：跳槽涨薪全流程：选岗、简历、面试、谈薪
 - [失业自救开源手册](https://github.com/AIPMAndy/how-to-survive-unemployment)：失业怎么办、被裁员后怎么办：补偿、失业金、医保社保和现金流
+- [GitHub / X / Threads / ChatGPT 赚钱实战指南](https://github.com/AIPMAndy/github-income-handbook)：同系列四份免费教程：[GitHub 赚钱](https://aipmandy.github.io/github-income-handbook/) · [X 赚钱](https://aipmandy.github.io/x-income-handbook/) · [Threads 赚钱](https://aipmandy.github.io/threads-income-handbook/) · [ChatGPT 赚钱](https://aipmandy.github.io/chatgpt-income-handbook/)
 
 <!-- andy-author-card:end -->
