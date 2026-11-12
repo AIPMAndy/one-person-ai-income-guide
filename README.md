@@ -18,6 +18,18 @@
 
 > **使用须知**：本项目 100% 免费，不需要买课程或订阅。30 天出首单属于行动实验，**不保证任何人赚到钱**。**所有示例人物与模拟订单**均为明确标识的虚构/假设演练；本次另新增**18篇真实人物、企业或第一人称报道案例**，有可打开的原文链接，但其中采访中的收入和效率数字没有经过本仓库独立审计。两类案例分别呈现。公开资料核验日期 2026-10-12，法规及平台条款需要交易时再次核查。
 
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**一个人一台电脑靠 AI 赚钱的开源攻略：验证需求、第一笔收款、交付与复购，附执行计划。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读](https://aipmandy.github.io/one-person-ai-income-guide/) · [仓库](https://github.com/AIPMAndy/one-person-ai-income-guide)
+- 联系：微信 `AIPMAndy`（备注「一人公司」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
+
 ## 关于作者与咨询｜AI 酋长 Andy
 
 **个人官网：[metaver.vip](https://metaver.vip/)** · **服务与陪跑：[metaver.vip/services](https://metaver.vip/services)** · **微信：AIPMAndy**
@@ -142,13 +154,13 @@ python3 -m unittest discover -s tests -v
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。
 
 可以找我聊求职咨询、AI 增长和副业陪跑，服务范围和费用先沟通确认。
 
 微信 `AIPMAndy`（备注「AI 副业」）· [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/) · [Grok Bot 中文攻略](https://aipmandy.github.io/grok-bot-handbook/)
 
-*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is co-founder of 流量 AI and founder of 星觉 AI at 星觉科技 in Beijing.*
 
 ### 作者的其他项目
 
