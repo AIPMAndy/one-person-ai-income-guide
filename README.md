@@ -12,6 +12,17 @@
 
 </div>
 
+<!-- andy-pdf-edition:start -->
+## 精美 PDF 电子书
+
+[**免费下载《一个人一台电脑靠 AI 赚钱》**](pdf/one-person-ai-income-guide-guide.pdf) · [直接下载 PDF](https://github.com/AIPMAndy/one-person-ai-income-guide/raw/refs/heads/main/pdf/one-person-ai-income-guide-guide.pdf)
+
+**199 页 · A5 手机阅读版 · 可点击目录 · 1.28 MB**  
+整理日期：2026-11-13。包含完整实操正文、案例、模板与原始来源；平台规则与价格沿用原资料的核查日期。
+
+**作者与服务（广告）**：AI 酋长 Andy · 个人微信 **AIPMAndy** · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/)。免费教程可直接使用，咨询与合作自愿选择。
+<!-- andy-pdf-edition:end -->
+
 ---
 
 **AI 可以加快你做事的速度，客户是否付钱取决于问题是不是值得解决、结果能不能验收。** 这份开源攻略教你找到第一个买单的人，按清楚的范围交付，再通过事实、现金流和复盘决定要不要扩大。
