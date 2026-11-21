@@ -12,9 +12,9 @@ test('13 weeks and cents without binary float drift',()=>{
   assert.equal(r.firstBreach,-1);
 });
 test('first week crossing minimum reserve',()=>{
-  const w=rows();w[0].payment='70';w[1].payment='30';
+  const w=rows();w[0].payment='40';w[1].payment='30';
   const r=compute({opening:'100',reserve:'50',weeks:w});
-  assert.equal(r.firstBreach,2);assert.equal(r.trough,0);assert.equal(r.ending,0);
+  assert.equal(r.firstBreach,2);assert.equal(r.trough,3000);assert.equal(r.ending,3000);
 });
 test('opening cash below reserve flagged before first week',()=>{
   const r=compute({opening:'30',reserve:'50',weeks:rows()});
