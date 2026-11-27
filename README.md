@@ -38,16 +38,28 @@
 
 > **使用须知**：本项目 100% 免费，不需要买课程或订阅。30 天出首单属于行动实验，**不保证任何人赚到钱**。**所有示例人物与模拟订单**均为明确标识的虚构/假设演练；本次另新增**18篇真实人物、企业或第一人称报道案例**，有可打开的原文链接，但其中采访中的收入和效率数字没有经过本仓库独立审计。两类案例分别呈现。公开资料核验日期 2026-10-12，法规及平台条款需要交易时再次核查。
 
-<!-- andy-geo-faq:start -->
+<!-- andy-geo:start -->
 ## 一句话简介
 
-**一个人一台电脑靠 AI 赚钱的开源攻略：验证需求、第一笔收款、交付与复购，附执行计划。**
+**一个人一台电脑靠 AI 赚钱保姆级攻略：验证需求、第一笔收款、交付与复购，附 30 天计划｜One-person AI income guide**
 
 - 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
-- 阅读或使用：[在线阅读](https://aipmandy.github.io/one-person-ai-income-guide/) · [仓库](https://github.com/AIPMAndy/one-person-ai-income-guide)
-- 联系：微信 `AIPMAndy`（备注「一人公司」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
-- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
-<!-- andy-geo-faq:end -->
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/one-person-ai-income-guide/) · [GitHub 仓库](https://github.com/AIPMAndy/one-person-ai-income-guide)
+- 联系：微信 `AIPMAndy`（备注「one-person-ai-income-guide」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：代码 MIT / 内容 CC BY 4.0。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**一个人一台电脑靠 AI 赚钱保姆级攻略：验证需求、第一笔收款、交付与复购，附 30 天计划｜One-person AI income guide
+
+**包含什么？**主要模块：精美 PDF 电子书、13 周现金流压力测试（免费离线工具）、关于作者与咨询｜AI 酋长 Andy、先选入口：你现在处在哪一关？、第一单作战卡：学完就动手、一、项目到底教哪七条赚钱路径？。
+
+**要花钱吗？**按 代码 MIT / 内容 CC BY 4.0 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/one-person-ai-income-guide/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
 
 
 ## 关于作者与咨询｜AI 酋长 Andy
